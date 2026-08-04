@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" alt="Muhammad Wafa Abbas Banner" width="100%">
+</p>
 # Hi there 👋, I'm Muhammad Wafa Abbas
 
 ### AI Researcher | Machine Learning Engineer | Computer Science Student
