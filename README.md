@@ -24,6 +24,39 @@
 <img src="https://img.shields.io/badge/AI-Agents-orange?style=for-the-badge">
 
 </p>
+
+<p align="center">
+  <a href="https://github.com/Muhammad-Wafa-Abbas">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/m-wafa-abbas-9abba1281/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:wafaabbas044@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Muhammad-Wafa-Abbas&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+
+<a href="https://github.com/Muhammad-Wafa-Abbas?tab=followers">
+<img src="https://img.shields.io/github/followers/Muhammad-Wafa-Abbas?label=Followers&style=social">
+
+</a>
+
+<a href="https://github.com/Muhammad-Wafa-Abbas">
+<img src="https://img.shields.io/github/stars/Muhammad-Wafa-Abbas?affiliations=OWNER&style=social">
+
+</a>
+
+</p>
+
 <h1 align="center">Hi 👋, I'm Muhammad Wafa Abbas</h1>
 
 <h3 align="center">
