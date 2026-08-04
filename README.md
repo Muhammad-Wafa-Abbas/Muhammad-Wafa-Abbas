@@ -76,6 +76,22 @@ I enjoy transforming research ideas into practical software—from medical image
 Currently, I'm focused on advancing my research, contributing to open source, and building impactful AI products.
 
 ---
+## 🧠 Research Philosophy
+
+I believe artificial intelligence should not only achieve high performance but also provide transparency, reliability, and real-world impact. My goal is to bridge cutting-edge research with practical applications by developing intelligent systems that are accurate, explainable, and accessible.
+
+## 📑 Table of Contents
+
+- [🚀 About Me](#-about-me)
+- [💡 Quick Snapshot](#-quick-snapshot)
+- [🎯 Currently Working On](#-currently-working-on)
+- [🏆 Featured Projects](#-featured-projects)
+- [💻 Tech Stack](#-tech-stack)
+- [📊 GitHub Statistics](#-github-statistics)
+- [📜 Certifications](#-certifications)
+- [🔬 Research Interests](#-research-interests)
+- [📫 Let's Connect](#-lets-connect)
+
 ## 💡 Quick Snapshot
 
 - 🎓 Computer Science Undergraduate at UET Lahore
@@ -88,15 +104,14 @@ Currently, I'm focused on advancing my research, contributing to open source, an
   
 ## 🔬 Research Interests
 
-- Explainable AI (XAI)
-- Medical Image Analysis
-- Computer Vision
-- Deep Learning
-- Machine Learning
-- AI Agents & LLM
-- Feature Fusion
-- Transfer Learning
-- AutoML
+- 🤖 Machine Learning
+- 🧠 Deep Learning
+- 👁️ Computer Vision
+- 💬 Large Language Models (LLMs)
+- 🕸️ AI Agents & Multi-Agent Systems
+- 🔍 Explainable AI (XAI)
+- 📊 AutoML
+- ⚙️ MLOps
 
 ---
 
@@ -177,15 +192,12 @@ I enjoy turning complex AI research into practical, user-friendly applications t
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Muhammad-Wafa-Abbas&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Muhammad-Wafa-Abbas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Muhammad-Wafa-Abbas&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Wafa-Abbas&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
 
 ## 📈 Contribution Graph
 
@@ -235,8 +247,27 @@ I enjoy turning complex AI research into practical, user-friendly applications t
 > 📌 **Kaggle Profile:** [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mwafaabbas)
 ---
 
-## 📫 Connect With Me
+## 📜 Certifications
 
-- GitHub
-- LinkedIn
-- Email
+- 🏅 IBM Machine Learning Professional Certificate
+- 🏅 Machine Learning Specialization (University of Washington)
+- 🏅 Neural Networks and Deep Learning
+- 🏅 Foundations of Model Optimization and Deep Learning
+
+> 📚 Continuously expanding my knowledge in Artificial Intelligence, Machine Learning, Deep Learning, LLMs, and AI Agents.
+
+## 💭 Favorite Quote
+
+<p align="center">
+
+⭐ If you find my work interesting, consider following my journey and connecting with me.
+
+</p>
+
+## 📫 Let's Connect
+
+<p align="center">
+<a href="https://github.com/Muhammad-Wafa-Abbas"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://www.linkedin.com/in/m-wafa-abbas-9abba1281/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:wafaabbas044@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+</p>
