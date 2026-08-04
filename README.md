@@ -171,9 +171,27 @@ I enjoy turning complex AI research into practical, user-friendly applications t
 
 ## 📊 GitHub Statistics
 
-Coming Soon...
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Wafa-Abbas&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Wafa-Abbas&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Muhammad-Wafa-Abbas&theme=tokyonight&hide_border=true" />
+</p>
 ---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Muhammad-Wafa-Abbas&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Wafa-Abbas&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ## 🏆 Featured Projects
 
