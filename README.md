@@ -115,7 +115,57 @@ I enjoy turning complex AI research into practical, user-friendly applications t
 
 ## 💻 Tech Stack
 
-Coming Soon...
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,cs,js,html,css,sql" />
+</p>
+
+---
+
+### 🤖 AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+</p>
+
+**Libraries & Frameworks**
+
+`Scikit-learn` • `Keras` • `XGBoost` • `NumPy` • `Pandas` • `Matplotlib` • `SHAP` • `Grad-CAM` • `CBAM`
+
+---
+
+### 🚀 Backend & Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,nextjs,nodejs" />
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,supabase" />
+</p>
+
+---
+
+### ☁️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,vercel,netlify,postman" />
+</p>
+
+---
+
+### 🧠 Currently Learning
+
+- Large Language Models (LLMs)
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- LangChain
+- Multi-Agent Systems
 
 ---
 
@@ -127,8 +177,44 @@ Coming Soon...
 
 ## 🏆 Featured Projects
 
-Coming Soon...
 
+### 🧠 Brain Tumor MRI Classification
+**Explainable Multi-Backbone Feature Fusion Framework with CBAM Attention and XGBoost Stacking**
+
+- 🧩 Multi-Backbone Feature Fusion (EfficientNetB0, ResNet50, DenseNet121)
+- 🎯 CBAM Attention + XGBoost Stacking
+- 📈 93.56% Accuracy • 98.76% ROC-AUC
+- 🔍 Explainable AI using SHAP & Grad-CAM
+- 📖 Research project under active development
+
+> 🔒 **The Kaggle notebook is currently private and will be published soon.**  
+> 📌 **Kaggle Profile:** [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mwafaabbas)
+
+---
+
+### 🤖 AgentLytic AI
+**AI-Powered Analytics & AutoML Platform**
+
+- 📊 Automated EDA & Data Preprocessing
+- 🤖 AutoML Model Training & Evaluation
+- 💬 AI Agent Chat
+- ⚡ FastAPI • Next.js • PostgreSQL
+- 🧠 Explainable AI (XAI)
+
+> 🔒 **Source code is private while the platform is under active development.**
+
+---
+
+### 🎭 Deepfake Face Image Detection
+**Stacked Ensemble Learning with Explainable AI**
+
+- 🧠 EfficientNetB0 • ResNet50 • DenseNet121
+- ⚡ XGBoost Stacking Ensemble
+- 📈 94.00% Accuracy • 0.982 ROC-AUC
+- 🔍 Explainability using SHAP & Grad-CAM
+
+> 🔒 **The Kaggle notebook is currently private and will be published soon.**  
+> 📌 **Kaggle Profile:** [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/mwafaabbas)
 ---
 
 ## 📫 Connect With Me
