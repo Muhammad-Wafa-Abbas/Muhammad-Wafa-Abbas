@@ -67,12 +67,25 @@ AI Researcher • Machine Learning Engineer • Computer Science Student
 
 ## 🚀 About Me
 
-Computer Science undergraduate passionate about Artificial Intelligence, Machine Learning, Deep Learning, Explainable AI, and Computer Vision.
+I'm **Muhammad Wafa Abbas**, a Computer Science undergraduate passionate about building intelligent systems that solve real-world problems.
 
-Currently focused on building AI systems , explainable machine learning, and intelligent software applications.
+My primary interests include **Machine Learning, Deep Learning, Computer Vision, Large Language Models (LLMs), AI Agents, Explainable AI (XAI), and Full-Stack AI Applications**.
+
+I enjoy transforming research ideas into practical software—from medical image classification and deepfake detection to AI-powered analytics platforms and autonomous AI agents.
+
+Currently, I'm focused on advancing my research, contributing to open source, and building impactful AI products.
 
 ---
+## 💡 Quick Snapshot
 
+- 🎓 Computer Science Undergraduate at UET Lahore
+- 🤖 AI Researcher & Machine Learning Engineer
+- 🔬 Interested in LLMs, AI Agents, Computer Vision & XAI
+- 🧠 Building research-driven AI applications
+- 🌱 Continuously learning and exploring new AI technologies
+- 💬 Ask me about Python, TensorFlow, Scikit-Learn, FastAPI, Next.js, or AI
+- 📫 Reach me at **wafaabbas044@gmail.com**
+  
 ## 🔬 Research Interests
 
 - Explainable AI (XAI)
@@ -87,14 +100,18 @@ Currently focused on building AI systems , explainable machine learning, and int
 
 ---
 
-## 🚧 Currently Working On
+## 🎯 Currently Working On
 
-- 🧠 Brain Tumor MRI Classification
-- 🎭 Deepfake Face Image Detection
-- 🤖 AgentLytic AI
-- 📚 AI Research & Publications
+- 🧠 Explainable Brain Tumor MRI Classification
+- 🎭 Deepfake Face Detection using Ensemble Learning
+- 🤖 AgentLytic AI – AI-Powered Analytics & AutoML Platform
+- 🧩 AI Agents powered by LLMs
+- 📚 Research, experimentation, and open-source AI projects
 
 ---
+## ⚡ Fun Fact
+
+I enjoy turning complex AI research into practical, user-friendly applications that anyone can use.
 
 ## 💻 Tech Stack
 
